@@ -1,0 +1,9 @@
+**/.terraform/
+**/.terraform.lock.hcl
+**/terraform.tfstate
+**/terraform.tfstate.backup
+
+# Ignorer les fichiers terraform.tfstate
+terraform.tfstate
+terraform.tfstate.*
+
